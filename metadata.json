@@ -1,0 +1,6 @@
+{
+  "name": "Ludo",
+  "description": "A beautifully polished, interactive, and modern digital Ludo board game featuring smart AI opponents, custom player setups, local pass-and-play, immersive synth sound effects, dynamic piece-movement animations, and Google Forms Workspace integration for match feedback surveys & registrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
